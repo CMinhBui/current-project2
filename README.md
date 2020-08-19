@@ -1,5 +1,6 @@
 # A2C_sharing_experience
-Multi-task learning with Advantage Actor Critic  and sharing experience 
+Code for multi-task learning with Advantage Actor Critic and sharing experience, submitted to IJCAI.
+Paper: https://www.ijcai.org/Proceedings/2019/0505.pdf
 
 ## To run the code
 
